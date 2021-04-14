@@ -1,5 +1,5 @@
 package core
 
 const (
-	BASE_URL = "https://https://open.kuaishou.com/"
+	BASE_URL = "https://open.kuaishou.com"
 )
